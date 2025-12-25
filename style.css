@@ -1,0 +1,49 @@
+body{
+  background:#f5ffd0;
+  margin:0px;
+  font-family:Arial,Sans-Serif;
+  text-align:center;
+}
+banner{
+  width:100%;
+  hight:auto;
+}
+section{
+  padding:20px;
+}
+#content{
+  background-color:#fffaee;
+  color:#683f2c;
+}
+table{
+  width:100%;
+  text-align:center;
+  background-color:#683f2c;
+  color:#fffaee;
+  border-collapse:collapse;
+}
+th,td{
+  padding:15px;
+  border: solid
+}
+th{
+  background:#f5ffd0;
+  color:#683f2c;
+}
+#form-section{
+  margin-top:10px;
+  color:#683f2c;
+}
+#name{
+  margin-top:10px;
+}
+#email{
+  margin-top:10px;
+}
+button{
+  margin-top:10px;
+}
+#button1{
+  width:10px;
+  hight:auto;
+}
